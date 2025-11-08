@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.kolanu.space
+REDIS_HOST: redis.kolanu.space
+CATALOGUE_HOST: catalogue.kolanu.space
+USER_HOST: user.kolanu.space
+MYSQL_HOST: mysql.kolanu.space
+CART_HOST: cart.kolanu.space
+SHIPPING_HOST: shipping.kolanu.space
+PAYMENT_HOST: payment.kolanu.space
+RABBITMQ_HOST: rabbitmq.kolanu.space
+FRONTEND_HOST: kolanu.space
