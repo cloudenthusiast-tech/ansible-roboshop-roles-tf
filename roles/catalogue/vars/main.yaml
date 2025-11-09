@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.kolanu.spaceo
+MONGODB_HOST: mongodb-{{ env }}.kolanu.space
