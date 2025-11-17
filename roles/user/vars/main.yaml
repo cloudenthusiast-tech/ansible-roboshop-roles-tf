@@ -1,2 +1,2 @@
-REDIS_HOST: redis.kolanu.space
-MONGODB_HOST: mongodb.kolanu.space
+REDIS_HOST: redis-{{ env }}.kolanu.space
+MONGODB_HOST: mongodb-{{ env }}.kolanu.space
